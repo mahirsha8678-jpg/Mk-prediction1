@@ -15,7 +15,7 @@ const WIN_LOGO_URL =
 const LOSS_LOGO_URL =
   'https://i.postimg.cc/3RpgTxDz/file-000000001f6871fa818330431319e5b0.png';
 
-const TARGET_CHAT_IDS = ['8244733612'];
+const TARGET_CHAT_IDS = ['8756212566'];
 // ==========================================
 
 const bot = new Telegraf(BOT_TOKEN);
