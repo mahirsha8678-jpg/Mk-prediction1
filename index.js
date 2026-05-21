@@ -3,8 +3,8 @@ const axios = require('axios');
 const http = require('http');
 
 // ================= CONFIG =================
-const BOT_TOKEN = '8783085862:AAEUpJnBFfJvvhsPu6ahbSEol8D9g-_KiPw';
-const OWNER_USERNAME = '@MK_BRO_1';
+const BOT_TOKEN = '8702410755:AAFdmwkHpmvkBPQ-fz_7sqcSy_Sv8ze_Awk';
+const OWNER_USERNAME = '@headmanmk';
 
 const WINGO_API_URL =
   'https://draw.ar-lottery01.com/WinGo/WinGo_1M/GetHistoryIssuePage.json?no=0&size=50';
